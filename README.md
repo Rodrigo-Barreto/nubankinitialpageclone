@@ -1,3 +1,3 @@
-# Nubank Inital Page Cllone
+# Nubank Inital Page Clone
 
-A new Flutter project.
+Flutter project.
